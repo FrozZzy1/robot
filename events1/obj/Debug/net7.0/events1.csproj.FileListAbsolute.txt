@@ -1,0 +1,15 @@
+/Users/matteweee/Projects/events1/events1/bin/Debug/net7.0/events1
+/Users/matteweee/Projects/events1/events1/bin/Debug/net7.0/events1.deps.json
+/Users/matteweee/Projects/events1/events1/bin/Debug/net7.0/events1.runtimeconfig.json
+/Users/matteweee/Projects/events1/events1/bin/Debug/net7.0/events1.dll
+/Users/matteweee/Projects/events1/events1/bin/Debug/net7.0/events1.pdb
+/Users/matteweee/Projects/events1/events1/obj/Debug/net7.0/events1.csproj.AssemblyReference.cache
+/Users/matteweee/Projects/events1/events1/obj/Debug/net7.0/events1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matteweee/Projects/events1/events1/obj/Debug/net7.0/events1.AssemblyInfoInputs.cache
+/Users/matteweee/Projects/events1/events1/obj/Debug/net7.0/events1.AssemblyInfo.cs
+/Users/matteweee/Projects/events1/events1/obj/Debug/net7.0/events1.csproj.CoreCompileInputs.cache
+/Users/matteweee/Projects/events1/events1/obj/Debug/net7.0/events1.dll
+/Users/matteweee/Projects/events1/events1/obj/Debug/net7.0/refint/events1.dll
+/Users/matteweee/Projects/events1/events1/obj/Debug/net7.0/events1.pdb
+/Users/matteweee/Projects/events1/events1/obj/Debug/net7.0/events1.genruntimeconfig.cache
+/Users/matteweee/Projects/events1/events1/obj/Debug/net7.0/ref/events1.dll
